@@ -6,7 +6,7 @@ This project is an end-to-end machine learning pipeline to classify Myntra produ
 
 ---
 
-## ✅ What This Project Does
+## ✅ Overview
 
 1. **Scrapes product reviews** from Myntra using Selenium.
 2. **Cleans and preprocesses** the reviews using NLTK.
