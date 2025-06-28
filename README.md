@@ -19,17 +19,21 @@ This project is an end-to-end machine learning pipeline to classify Myntra produ
 
 ---
 
-## 🗂️ Project Structure
+Sure! Here's your clean **project structure in Markdown** with no comments:
+
+
+### 📁 Project Structure
+```
 ├── app.py
 ├── scrape.py
 ├── EDA.ipynb
-├── clean_and_prepare.py
-├── train_model.py
-├── logreg_sentiment_model.pkl
-├── tfidf_vectorizer.pkl
+├── clean\_and\_prepare.py
+├── train\_model.py
+├── logreg\_sentiment\_model.pkl
+├── tfidf\_vectorizer.pkl
 ├── requirements.txt
 └── README.md
-
+```
 
 ## 🚀 How to Use This Project
 
