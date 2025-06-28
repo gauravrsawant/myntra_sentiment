@@ -22,13 +22,16 @@ This project is an end-to-end machine learning pipeline to classify Myntra produ
 Sure! Here's your clean **project structure in Markdown** with no comments:
 
 
-### 📁 Project Structure
+Here is the **project structure without comments** in Markdown format:
+
+## 📁 Project Structure
+
 ```
-├── app.py
 ├── scrape.py
 ├── EDA.ipynb
 ├── clean\_and\_prepare.py
 ├── train\_model.py
+├── app.py
 ├── logreg\_sentiment\_model.pkl
 ├── tfidf\_vectorizer.pkl
 ├── requirements.txt
