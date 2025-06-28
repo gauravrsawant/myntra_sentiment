@@ -16,7 +16,7 @@ def scrape_reviews(url):
             EC.presence_of_element_located((By.CLASS_NAME, "product-details-container"))
         )
     except:
-        print("❌ Product details did not load.")
+        print("Product details did not load.")
         driver.quit()
         return None
 
@@ -79,6 +79,6 @@ def scrape_reviews(url):
     with open("myntra_reviews.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print("✅ Reviews saved to myntra_reviews.json")
+    print("Reviews saved to myntra_reviews.json")
 
 # scrape_reviews("https://www.myntra.com/reviews/30396659")
