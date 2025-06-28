@@ -29,11 +29,11 @@ Here is the **project structure without comments** in Markdown format:
 ```
 ├── scrape.py
 ├── EDA.ipynb
-├── clean\_and\_prepare.py
-├── train\_model.py
+├── clean_and_prepare.py
+├── train_model.py
 ├── app.py
-├── logreg\_sentiment\_model.pkl
-├── tfidf\_vectorizer.pkl
+├── logreg_sentiment_model.pkl
+├── tfidf_vectorizer.pkl
 ├── requirements.txt
 └── README.md
 ```
